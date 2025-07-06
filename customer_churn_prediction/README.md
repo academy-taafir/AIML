@@ -3,6 +3,14 @@
 - Bivariate: contract type vs. churn, monthly charges vs. churn.
 - ML Use: Train a classification model to predict if a customer will churn.
 
+## The dataset includes:
+- tenure (in months)
+- monthly_charges (USD)
+- contract_type (Month-to-month, One year, Two year)
+- churn (boolean: True for churned, False otherwise)
+
+-------------------------------------------------------------------------------------
+
 ## Univariate Analysis (Individual Variable Exploration)
 ### 1. Distribution of tenure
   - Plot a histogram or KDE plot.
