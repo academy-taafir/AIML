@@ -1,4 +1,4 @@
-# 1. Customer Churn Prediction
+# Customer Churn Prediction
 - Univariate: Distribution of tenure, monthly charges, contract type.
 - Bivariate: contract type vs. churn, monthly charges vs. churn.
 - ML Use: Train a classification model to predict if a customer will churn.
